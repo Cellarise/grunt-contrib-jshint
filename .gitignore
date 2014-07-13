@@ -1,8 +1,7 @@
+atlassian-ide-plugin.xml
 node_modules/
 bower_components/
 .idea/
 
 npm-debug.log
 tmp
-atlassian-ide-plugin.xml
-.idea*
