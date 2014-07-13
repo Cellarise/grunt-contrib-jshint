@@ -1,3 +1,7 @@
+## grunt-cellarise-jshint
+This package has been forked from gruntjs/grunt-contrib-jshint, and adds a reporter for Atlassian Bamboo.
+
+## grunt-contrib-jshint
 # grunt-contrib-jshint v0.10.0 [![Build Status: Linux](https://travis-ci.org/gruntjs/grunt-contrib-jshint.png?branch=master)](https://travis-ci.org/gruntjs/grunt-contrib-jshint) <a href="https://ci.appveyor.com/project/gruntjs/grunt-contrib-jshint"><img src="https://ci.appveyor.com/api/projects/status/j04ik7qgx21ixyfw/branch/master" alt="Build Status: Windows" height="18" /></a>
 
 > Validate files with JSHint.

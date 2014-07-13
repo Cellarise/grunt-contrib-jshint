@@ -1,18 +1,11 @@
 {
-  "name": "grunt-contrib-jshint",
-  "description": "Validate files with JSHint.",
-  "version": "0.10.0",
-  "homepage": "https://github.com/gruntjs/grunt-contrib-jshint",
-  "author": {
-    "name": "Grunt Team",
-    "url": "http://gruntjs.com/"
-  },
+  "name": "grunt-cellarise-jshint",
+  "description": "This package has been forked from gruntjs/grunt-contrib-jshint, and adds a reporter for Atlassian Bamboo. Validate files with JSHint.",
+  "version": "0.1.0",
+  "author": "John Barry",
   "repository": {
     "type": "git",
-    "url": "git://github.com/gruntjs/grunt-contrib-jshint.git"
-  },
-  "bugs": {
-    "url": "https://github.com/gruntjs/grunt-contrib-jshint/issues"
+    "url": "git://github.com/cellarise/grunt-contrib-jshint.git"
   },
   "licenses": [
     {
@@ -39,7 +32,8 @@
     "grunt": "~0.4.0"
   },
   "keywords": [
-    "gruntplugin"
+    "gruntplugin",
+    "bamboo"
   ],
   "files": [
     "tasks",
