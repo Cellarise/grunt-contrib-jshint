@@ -1,7 +1,7 @@
 {
   "name": "grunt-cellarise-jshint",
   "description": "This package has been forked from gruntjs/grunt-contrib-jshint, and adds a reporter for Atlassian Bamboo. Validate files with JSHint.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "John Barry",
   "repository": {
     "type": "git",
